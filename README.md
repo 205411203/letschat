@@ -1,6 +1,6 @@
 <img src=images/iconfinal.png width=80>
 
-# Let's Chat
+# Let's Chat -- clone from https://github.com/ArunBalajiR/Flutter-Chat-Application 
 
 [![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-%2345D1FE)](https://flutter.dev/)
 
